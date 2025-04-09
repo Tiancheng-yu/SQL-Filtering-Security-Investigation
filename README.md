@@ -53,7 +53,7 @@ To carry out the investigation, SQL filters were used to extract, refine, and an
 
 ## Project Files
 
-- 🧠 **SQL Scripts**: [Apply filters to SQL queries](./Apply%20filters%20to%20SQL%20queries.pdf)
+- **SQL Scripts**: [Apply filters to SQL queries](./Apply%20filters%20to%20SQL%20queries.pdf)
 
 ---
 
