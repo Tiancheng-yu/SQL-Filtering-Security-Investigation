@@ -56,3 +56,5 @@ To carry out the investigation, SQL filters were used to extract, refine, and an
 - **SQL Scripts**: [Apply filters to SQL queries](./Apply%20filters%20to%20SQL%20queries.pdf)
 
 ---
+
+This project is ideal for showcasing practical security data analysis skills and SQL filtering knowledge in a cybersecurity portfolio.
