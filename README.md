@@ -1,5 +1,3 @@
-# SQL Filtering Security Investigation
-
 ## Overview
 
 This repository contains a detailed security investigation using SQL filters to examine suspicious login activity and employee data. The project simulates a real-world scenario where a security professional uses structured queries to identify potential threats within an organization's infrastructure.
